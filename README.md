@@ -32,6 +32,13 @@ The tool is designed for learning purposes to understand how network reconnaissa
 4. Tool scans ports and displays open ones
 
 
+
+Security Note !!!
+
+This Tool is for educational purposes only. Do not scan unauthorized systems.
+
+
+
 ## ▶️ How to Run
 
 ```bash
